@@ -1,0 +1,5 @@
+id,user_id,video_id,likes,comentaris
+1,1,1,like,"buen video me gusto"
+2,1,2,dislike,"lo peor que he visto en mi vida"
+3,2,2,dislike,"de verdad me sangran los ojos"
+4,2,2,dislike,"borra la cuenta"
